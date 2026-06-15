@@ -1,8 +1,8 @@
 body{
     margin: 0;
     padding: 0;
-    width: 100%;
-     min-height: clamp(400px, 50vh, 800px);
+    width: 100%; 
+     min-height: 100vh;
     /*IMAGEM DE FUNDO DE TODAS AS PAGINAS */
     background: linear-gradient(rgba(285, 285, 285, 0.8), rgba(285, 285, 285, 0.8)), url(img/imunologico.jpg);
     background-size: cover;
