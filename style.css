@@ -29,8 +29,8 @@ body{
 /*MENU DE ACESSO*/
 nav{
    position:absolute;
-    max-width: 99%;
-    height: 100px;
+    max-width: 100%;
+    height: 100%;
     box-sizing: border-box;
     background: rgba(0,0,0, 0.6);
     border-bottom:  1px solid #fff;
