@@ -63,6 +63,12 @@ nav ul li a:hover{
     
 }
 
+@media(max-width:768px){
+    nav ul{ 
+        display: block;
+    }
+        
+
 main {
     position: relative;    
     width: 100%;
