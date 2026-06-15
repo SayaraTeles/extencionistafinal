@@ -29,7 +29,7 @@ body{
 /*MENU DE ACESSO*/
 nav{
    position:absolute;
-    width: 100%;
+    max-width: 99%;
     height: 100px;
     box-sizing: border-box;
     background: rgba(0,0,0, 0.6);
@@ -68,7 +68,7 @@ main {
     height: 80vw;
     font-size:x-large;
     text-align: center ;
-    margin: 2rem 2rem;
+    margin: 3rem 2rem;
     
 
 }
